@@ -1,7 +1,7 @@
 git_repository(
     name = "org_dropbox_rules_node",
     remote = "https://github.com/dropbox/rules_node.git",
-    commit = "master",
+    commit = "74d8aeb40d079acdceb2380af2a72e29613a8fd6",
 )
 
 load("@org_dropbox_rules_node//node:defs.bzl", "node_repositories", "NODEJS_BUILD_FILE_CONTENT")
