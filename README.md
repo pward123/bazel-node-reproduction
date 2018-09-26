@@ -1,3 +1,5 @@
+# This was fixed by https://github.com/dropbox/rules_node/issues/12
+
 # bazel-node-reproduction
 
 This repository demonstrates an issue when trying to use the dropbox rules_node with node v8.11.4.
